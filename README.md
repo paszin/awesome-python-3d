@@ -14,6 +14,7 @@ Other Awesome Lists:
 
 
 
+Awesome Python 3D
 
 * [open3d](https://github.com/IntelVCL/Open3D) Basic 3D data structures, Basic 3D data processing algorithms, Scene reconstruction, Surface alignment, 3D visualization
 
