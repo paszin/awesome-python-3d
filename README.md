@@ -1,7 +1,17 @@
 # awesome-python-3d
-resources for mesh and pointcloud processing
+resources for mesh and pointcloud processing with python
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+DISCLAIMER: I like the _awesome-xxx_ "movement". This is just for my personal research, but I added the _awesome_ prefix in the repository name. This is not activly maintained whatever, just some personal notes, which are open source.
+
+Other Awesome Lists:
+
+* [Awesome-Python](https://github.com/vinta/awesome-python)
+* [Awesome-3DReconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
+
 
 
 
