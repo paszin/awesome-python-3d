@@ -17,6 +17,8 @@ ________________________________________________________________________________
 
 * [trimesh](https://github.com/mikedh/trimesh) easy manipulation and analysis, Cross Sections, Proximity Queries, Path Finding, Ray Tests
 
+* [pymesh](https://github.com/PyMesh/PyMesh) easy and fast geometry processing, boolean operations, processing like remove doublicate vertices, short edges etc.
+
 * [scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.html) convex hull, voronoi, etc.
 
 ___________________________________________________________________________________________________________
