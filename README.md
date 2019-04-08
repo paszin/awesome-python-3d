@@ -15,12 +15,13 @@ ________________________________________________________________________________
 
 * [open3d](https://github.com/IntelVCL/Open3D) Basic 3D data structures, Basic 3D data processing algorithms, Scene reconstruction, Surface alignment, 3D visualization
 
-* [trimesh](https://github.com/mikedh/trimesh) easy manipulation and analysis, Cross Sections, Proximity Queries, Path Finding, Ray Tests
+* [trimesh](https://github.com/mikedh/trimesh) easy manipulation and analysis, Cross Sections, Proximity Queries, Path Finding, Ray Tests, Visualization
 
 * [pymesh](https://github.com/PyMesh/PyMesh) easy and fast geometry processing, boolean operations, processing like remove doublicate vertices, short edges etc.
 
 * [scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.html) convex hull, voronoi, etc.
 
+* [meshio](https://github.com/nschloe/meshio) meshio can read and write plenty of mesh formats
 ___________________________________________________________________________________________________________
 
 **Other Awesome Lists**
