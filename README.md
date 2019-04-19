@@ -22,6 +22,8 @@ ________________________________________________________________________________
 * [scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.html) convex hull, voronoi, etc.
 
 * [meshio](https://github.com/nschloe/meshio) meshio can read and write plenty of mesh formats
+
+* [MeshLabXML](https://github.com/3DLIRIOUS/MeshLabXML) Interface to use meshlab scripts in Python
 ___________________________________________________________________________________________________________
 
 **Other Awesome Lists**
