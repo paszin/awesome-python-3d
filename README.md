@@ -13,6 +13,8 @@ ________________________________________________________________________________
 
 **Awesome Python 3D**
 
+for candidates see [issues](https://github.com/paszin/awesome-python-3d/issues)
+
 * [open3d](https://github.com/IntelVCL/Open3D) Basic 3D data structures, Basic 3D data processing algorithms, Scene reconstruction, Surface alignment, 3D visualization
 
 * [trimesh](https://github.com/mikedh/trimesh) easy manipulation and analysis, Cross Sections, Proximity Queries, Path Finding, Ray Tests, Visualization
@@ -30,3 +32,4 @@ ________________________________________________________________________________
 
 * [Awesome-Python](https://github.com/vinta/awesome-python)
 * [Awesome-3DReconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
+* [Awesome-Scientific-Computing Meshing](https://github.com/nschloe/awesome-scientific-computing#meshing)
